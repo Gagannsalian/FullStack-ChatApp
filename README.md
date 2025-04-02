@@ -24,4 +24,8 @@ NODE_ENV=development
 Build the app :  npm run build
 
 
+
+VIEW PROJECT : https://fullstack-chatapp-uimd.onrender.com/
+
+
 Start the app: npm start
